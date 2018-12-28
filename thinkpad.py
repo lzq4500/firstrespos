@@ -1,3 +1,3 @@
 
-ipython 
-thinkpad
+python
+thinpad
